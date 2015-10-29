@@ -21,6 +21,6 @@ On your Windows cell, run `hakim.exe`. It will error (hopefully helpfully) if th
 
 ## Current checks
 
-- Both diego-windows-release services are running (metron.exe, rep.exe)
-- Both garden-windows-release services are running (garden-windows.exe, containerizer.exe)
-- A container can be created
+- Both [diego-windows-release](https://github.com/cloudfoundry-incubator/diego-windows-release/) services are running (metron.exe, rep.exe)
+- Both [garden-windows-release](https://github.com/cloudfoundry-incubator/garden-windows-release/) services are running (garden-windows.exe, containerizer.exe)
+- A container can be created through the garden API
