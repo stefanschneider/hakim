@@ -1,4 +1,4 @@
-package main_test
+package checks_test
 
 import (
 	. "github.com/onsi/ginkgo"
@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-func TestHakim(t *testing.T) {
+func TestChecks(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Hakim Suite")
+	RunSpecs(t, "Checks Suite")
 }
