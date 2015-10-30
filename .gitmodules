@@ -13,3 +13,9 @@
 [submodule "src/github.com/tedsuo/rata"]
 	path = vendor/src/github.com/tedsuo/rata
 	url = https://github.com/tedsuo/rata
+[submodule "vendor/src/github.com/onsi/ginkgo"]
+	path = vendor/src/github.com/onsi/ginkgo
+	url = https://github.com/onsi/ginkgo
+[submodule "vendor/src/github.com/onsi/gomega"]
+	path = vendor/src/github.com/onsi/gomega
+	url = https://github.com/onsi/gomega
