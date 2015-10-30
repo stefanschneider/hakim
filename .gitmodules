@@ -1,15 +1,15 @@
 [submodule "src/github.com/bmizerany/pat"]
-	path = src/github.com/bmizerany/pat
+	path = vendor/src/github.com/bmizerany/pat
 	url = https://github.com/bmizerany/pat
 [submodule "src/github.com/cloudfoundry-incubator/garden"]
-	path = src/github.com/cloudfoundry-incubator/garden
+	path = vendor/src/github.com/cloudfoundry-incubator/garden
 	url = https://github.com/cloudfoundry-incubator/garden
 [submodule "src/github.com/mitchellh/go-ps"]
-	path = src/github.com/mitchellh/go-ps
+	path = vendor/src/github.com/mitchellh/go-ps
 	url = https://github.com/mitchellh/go-ps
 [submodule "src/github.com/pivotal-golang/lager"]
-	path = src/github.com/pivotal-golang/lager
+	path = vendor/src/github.com/pivotal-golang/lager
 	url = https://github.com/pivotal-golang/lager
 [submodule "src/github.com/tedsuo/rata"]
-	path = src/github.com/tedsuo/rata
+	path = vendor/src/github.com/tedsuo/rata
 	url = https://github.com/tedsuo/rata
